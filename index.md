@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+<style>
+    h2{
+        color :darkred;
+    }
+</style>
+<style>
+    h1{
+        color:grey;
+        text-align: center;
+    }
+</style>
+ <style>
+     h3{
+         color :black;
+         
+     }
+ </style>
+ <head>
+     <title>Taskes</title>
+     
+ </head>      
+<h1>Taskes</h1>
+<h2>Taskes info : </h2> <textarea style="margin: 0px; width: 650px; hight: 140px;"></textarea>
+<h3>Task answer : </h3> 
+<textarea style="margin: 0px; width: 670px; hight: 350px;"> 
 
-You can use the [editor on GitHub](https://github.com/kangshuchan/kangshuchan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+   
+</textarea>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kangshuchan/kangshuchan/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<h2>thank you for using survis</h2>
+</body>
+<h5> more info : ~</h5>
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h6>| 고객문의 | 홈페이지 | 디스코드 |</h6>
+</style>
